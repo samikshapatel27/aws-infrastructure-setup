@@ -24,5 +24,3 @@ Designed a highly scalable web application architecture capable of handling 10,0
 
 ## Files
 - `architecture-diagram.png` - Main diagram
-- `architecture-diagram.drawio` - Source file
-- `architecture-diagram.pdf` - Printable version
